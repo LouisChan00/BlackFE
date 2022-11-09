@@ -1,7 +1,7 @@
 const api = {
   rootUrl: '/',
-  baseUrl: 'http://95.216.85.81:5000/api', //mock data base folder
-  imgUrl: "http://95.216.85.81:5000/uploads/",
+  baseUrl: 'https://95.216.85.81:5000/api', //mock data base folder
+  imgUrl: "https://95.216.85.81:5000/uploads/",
   user: '/users',
   utils: '/utils'
 }
